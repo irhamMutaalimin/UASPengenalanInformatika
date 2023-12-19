@@ -1,7 +1,18 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+Computational thinking adalah cara berpikir yang membantu kita menyelesaikan masalah dengan langkah-langkah (terurut), mirip cara komputer memproses informasi. Seperti memecahkan teka-teki atau masalah matematika dengan langkah-langkah tertentu, itu adalah contoh dari computational thinking.
+Ada beberapa bagian penting dalam computational thinking:
 
+1. Pemecahan Masalah: Ini adalah kemampuan untuk memecah masalah besar menjadi bagian-bagian yang lebih kecil agar lebih mudah diatasi. Misalnya, jika Kita memiliki teka-teki besar, Kita bisa membaginya menjadi potongan-potongan kecil yang lebih mudah dipecahkan.
+
+2. Pengenalan Pola: Ini adalah tentang melihat pola atau kesamaan dalam masalah yang berbeda. Misalnya, jika Kita melihat bahwa beberapa teka-teki memiliki cara penyelesaian yang sama, itu adalah pengenalan pola.
+
+3. Abstraksi: Ini adalah cara untuk menyederhanakan masalah dengan mengabaikan detail yang tidak penting pada saat itu. Misalnya, saat memecahkan teka-teki, Kita fokus pada informasi yang penting untuk menemukan solusi.
+
+4. Pemikiran Algoritma: Ini adalah tentang merancang langkah-langkah atau aturan yang logis untuk menyelesaikan masalah. Misalnya, membuat daftar langkah-langkah yang harus Kita lakukan untuk menyelesaikan teka-teki.
+
+Menginternalisasi computational thinking berarti menggunakan cara berpikir ini saat kita menyelesaikan masalah. Ini bisa membantu kita tidak hanya dalam bidang perkuliahan saja, tetapi juga dalam banyak hal lainnya. kita dapat mempraktikkan dengan memecahkan masalah sederhana sehari-hari dan mencoba menerapkan konsep-konsep ini saat Anda mencari solusi.
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
