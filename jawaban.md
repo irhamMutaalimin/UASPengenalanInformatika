@@ -16,6 +16,8 @@ Menginternalisasi computational thinking berarti menggunakan cara berpikir ini s
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+<img width="957" alt="Screenshot 2023-12-19 171410" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9bbb2eea-1500-47c7-a77b-04b55212b058">
+<img width="611" alt="Screenshot 2023-12-19 172520" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ae9e2d02-1c79-4205-887c-4fa72fc149a2">
 
 ## Mencoba Console Sistem Operasi
 
