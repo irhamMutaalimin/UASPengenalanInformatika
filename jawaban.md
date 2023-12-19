@@ -27,7 +27,11 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
+
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+Algoritma membuat kopi instan
+<img width="898" alt="Screenshot 2023-12-19 180150" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f8a5062a-4e2a-4417-9152-54541134754f">
+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
