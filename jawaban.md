@@ -14,7 +14,13 @@ Ada beberapa bagian penting dalam computational thinking:
 
 Menginternalisasi computational thinking berarti menggunakan cara berpikir ini saat kita menyelesaikan masalah. Ini bisa membantu kita tidak hanya dalam bidang perkuliahan saja, tetapi juga dalam banyak hal lainnya. kita dapat mempraktikkan dengan memecahkan masalah sederhana sehari-hari dan mencoba menerapkan konsep-konsep ini saat Anda mencari solusi.
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-
+Setiap jenis mesin komputasi memiliki peran dan fungsi yang berbeda sesuai dengan kebutuhan penggunaan,  Berikut beberapa jenis mesin komputasi yang umum :
+1. Komputer Pribadi (Personal Computer - PC): Ini adalah mesin komputasi yang umum digunakan di rumah atau kantor. Biasanya terdiri dari CPU, RAM, penyimpanan seperti hard drive atau SSD, dan perangkat input/output seperti keyboard dan monitor. PC hadir dalam bentuk desktop yang terpisah atau dalam format all-in-one di mana semua komponen terdapat dalam satu unit.
+2. Laptop: Merupakan komputer portabel yang memadukan semua komponen dasar dari PC dalam satu unit yang mudah dibawa. Didesain untuk mobilitas, laptop memiliki layar, keyboard, touchpad, dan baterai yang terintegrasi.
+3. Server: Mesin komputasi ini didesain untuk menyimpan data dan memberikan layanan kepada komputer lain dalam jaringan. Server memiliki kekuatan komputasi yang lebih besar daripada PC biasa dan digunakan untuk hosting situs web, menyimpan data, atau menyediakan layanan jaringan di perusahaan atau data center.
+4. Superkomputer: Merupakan mesin komputasi yang sangat kuat dan digunakan untuk tugas-tugas yang membutuhkan pemrosesan yang sangat intensif. Superkomputer sering digunakan dalam riset ilmiah, analisis data besar, dan simulasi kompleks.
+5. Mainframe: Mesin komputasi ini digunakan di perusahaan besar untuk menangani banyak operasi secara bersamaan. Mainframe sering digunakan untuk pemrosesan transaksi dalam jumlah besar, seperti perbankan atau manajemen data korporat.
+6. Embedded Systems (Sistem Tertanam): Merupakan mesin komputasi yang tertanam dalam perangkat lain. Mereka dioptimalkan untuk fungsi spesifik dan ditemukan dalam peralatan elektronik sehari-hari seperti mobil, peralatan rumah tangga, atau perangkat medis.
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 <img width="957" alt="Screenshot 2023-12-19 171410" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9bbb2eea-1500-47c7-a77b-04b55212b058">
 <img width="611" alt="Screenshot 2023-12-19 172520" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ae9e2d02-1c79-4205-887c-4fa72fc149a2">
