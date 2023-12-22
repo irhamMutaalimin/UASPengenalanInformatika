@@ -132,6 +132,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="919" alt="Screenshot 2023-12-23 022130" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70558b2f-3ba5-403e-8ebb-5f0ff1fb8be5">
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+<img width="913" alt="Screenshot 2023-12-23 030916" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5e6c26f8-a2b8-442a-b20f-0346b4b59ed1">
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
