@@ -26,12 +26,15 @@ Setiap jenis mesin komputasi memiliki peran dan fungsi yang berbeda sesuai denga
 <img width="611" alt="Screenshot 2023-12-19 172520" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ae9e2d02-1c79-4205-887c-4fa72fc149a2">
 
 ## Mencoba Console Sistem Operasi
+<img width="862" alt="Screenshot 2023-12-22 225503" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/1146c2a7-799f-49a5-8b16-15d8c6ed0676">
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+<img width="888" alt="Screenshot 2023-12-22 230639" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/4bec2541-86ce-447e-aa92-632311bb989c">
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+<img width="898" alt="Screenshot 2023-12-22 233153" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/79673f33-db62-44d0-a67e-5f54bf703ddf">
 
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
