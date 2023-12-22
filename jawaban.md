@@ -129,6 +129,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+<img width="919" alt="Screenshot 2023-12-23 022130" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70558b2f-3ba5-403e-8ebb-5f0ff1fb8be5">
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
