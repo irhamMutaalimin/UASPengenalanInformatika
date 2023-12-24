@@ -95,6 +95,7 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+<img width="933" alt="Screenshot 2023-12-24 201447" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/e89d006f-68e5-4cc6-bb55-a7910ca48259">
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
