@@ -146,6 +146,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="960" alt="Screenshot 2023-12-25 121742" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/226b8b6c-e4fe-47a7-991f-81e4987187bd">
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+<img width="933" alt="Screenshot 2023-12-25 135520" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b99775e2-dbce-414a-bf64-ff2dffb3c9a0">
+<img width="960" alt="Screenshot 2023-12-25 142325" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/79739a1b-03dc-479c-89a8-18f8003f2795">
+<img width="959" alt="Screenshot 2023-12-25 142759" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3c3afb16-ea0f-4117-bed8-7fa5542dcf76">
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
