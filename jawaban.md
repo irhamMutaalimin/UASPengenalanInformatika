@@ -143,6 +143,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![WhatsApp Image 2023-12-25 at 11 53 39 (1)](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/71236262-d7e8-47f9-a433-35cd4d2ca30f)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+<img width="960" alt="Screenshot 2023-12-25 121742" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/226b8b6c-e4fe-47a7-991f-81e4987187bd">
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
