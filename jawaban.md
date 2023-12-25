@@ -139,6 +139,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![WhatsApp Image 2023-12-25 at 11 53 39](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b36415ca-9228-4d96-8954-01c677af30be)
+![WhatsApp Image 2023-12-25 at 11 53 39 (1)](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/71236262-d7e8-47f9-a433-35cd4d2ca30f)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
