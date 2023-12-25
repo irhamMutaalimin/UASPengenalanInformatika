@@ -165,6 +165,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+<img width="942" alt="Screenshot 2023-12-25 120120" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5a2979dc-a2db-48a3-b4ca-89a0b1d2c14f">
+<img width="958" alt="Screenshot 2023-12-25 120135" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/370bc270-5acd-4089-b9c7-20ce3a83f8c9">
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
