@@ -141,6 +141,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="913" alt="Screenshot 2023-12-23 030916" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5e6c26f8-a2b8-442a-b20f-0346b4b59ed1">
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+<img width="959" alt="Screenshot 2023-12-26 160942" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3511efa5-c55c-4271-a5f5-7a4d676b9625">
+<img width="958" alt="Screenshot 2023-12-26 161622" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3380ca11-b6fe-40c4-a97a-a8240cd8bb78">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![WhatsApp Image 2023-12-25 at 11 53 39](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b36415ca-9228-4d96-8954-01c677af30be)
