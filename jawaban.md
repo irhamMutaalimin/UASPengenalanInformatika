@@ -165,8 +165,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-27 011632" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b2845e0d-738b-4321-b266-9be4556d02af">
+<img width="957" alt="Screenshot 2023-12-27 011614" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b99aef93-1d13-4f17-88e3-45ae53e317c8">
+
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
