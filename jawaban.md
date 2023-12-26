@@ -1,4 +1,4 @@
-<img width="922" alt="Screenshot 2023-12-26 164918" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a120c795-ccc6-41a3-82f2-5856a07ac450"># Hello Informatics !
+# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational thinking adalah cara berpikir yang membantu kita menyelesaikan masalah dengan langkah-langkah (terurut), mirip cara komputer memproses informasi. Seperti memecahkan teka-teki atau masalah matematika dengan langkah-langkah tertentu, itu adalah contoh dari computational thinking.
