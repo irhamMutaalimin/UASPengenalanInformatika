@@ -170,6 +170,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![WhatsApp Image 2023-12-26 at 19 15 44](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d7bb962f-596f-4f9a-957f-043fdcb7739a)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+![WhatsApp Image 2023-12-26 at 20 09 26 (1)](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a804156d-66dd-4dea-ad52-1d358f7792a6)
+![WhatsApp Image 2023-12-26 at 20 09 26](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3ed41358-b534-49c1-bb80-0eadf7539eb2)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 <img width="949" alt="Screenshot 2023-12-26 192541" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b63924fc-7fd8-47cb-9cef-c1ed09f103be">
