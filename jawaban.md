@@ -158,6 +158,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+1. Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi.Jurnal juga bisa berupa kumpulan tulisan ilmiah dari para peneliti atau ahli dalam bidang tertentu. Di sini, mereka membagikan hasil penelitian, analisis, atau gagasan terbaru tentang topik yang mereka pelajari. Jurnal ini berfungsi sebagai wadah untuk menyebarkan pengetahuan baru kepada komunitas ilmiah dan masyarakat. Artikel-artikel dalam jurnal biasanya melalui proses penilaian oleh pakar dalam bidang yang sama sebelum dipublikasikan untuk memastikan kualitas dan keandalannya.Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, untuk mencatat pemikiran atau ide-ide yang muncul, atau untuk mencatat hasil penelitian atau observasi.
+
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
