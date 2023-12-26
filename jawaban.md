@@ -174,6 +174,14 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+<img width="949" alt="Screenshot 2023-12-27 014931" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6d46ae82-2ef8-4220-8041-321324e988e6">
+<img width="658" alt="Screenshot 2023-12-27 014947" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/12d3d81c-1041-4a40-a4fd-9cbf12510737">
+<img width="941" alt="Screenshot 2023-12-27 015008" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/7d978ca1-4aaf-4be1-bbc6-e0938b0d5b41">
+<img width="578" alt="Screenshot 2023-12-27 015137" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/69ef227e-e9ce-4ddc-ac2b-b877f035b8d7">
+<img width="548" alt="Screenshot 2023-12-27 015149" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/8817b032-3ba9-4494-ab0b-63b04a7c3818">
+
+
+
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 ![WhatsApp Image 2023-12-26 at 19 15 45](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/60b20e41-0086-4255-9334-c7c4bdf1e0de)
