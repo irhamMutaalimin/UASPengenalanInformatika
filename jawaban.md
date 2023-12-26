@@ -180,6 +180,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="958" alt="Screenshot 2023-12-25 120135" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/370bc270-5acd-4089-b9c7-20ce3a83f8c9">
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+<img width="936" alt="Screenshot 2023-12-26 164322" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/530a29e8-7011-4b3c-8362-dbcf55405204">
+<img width="960" alt="Screenshot 2023-12-26 164218" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9cc01461-b210-4759-a98c-502d8e8e3e65">
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
