@@ -166,6 +166,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+![WhatsApp Image 2023-12-26 at 19 15 45](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/60b20e41-0086-4255-9334-c7c4bdf1e0de)
+![WhatsApp Image 2023-12-26 at 19 15 44](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d7bb962f-596f-4f9a-957f-043fdcb7739a)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
