@@ -1,4 +1,4 @@
-# Hello Informatics !
+<img width="922" alt="Screenshot 2023-12-26 164918" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a120c795-ccc6-41a3-82f2-5856a07ac450"># Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 Computational thinking adalah cara berpikir yang membantu kita menyelesaikan masalah dengan langkah-langkah (terurut), mirip cara komputer memproses informasi. Seperti memecahkan teka-teki atau masalah matematika dengan langkah-langkah tertentu, itu adalah contoh dari computational thinking.
@@ -173,8 +173,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
+## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+<img width="922" alt="Screenshot 2023-12-26 164918" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/e59dbd51-0704-45e2-91dc-c61f9a1a4892">
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 <img width="942" alt="Screenshot 2023-12-25 120120" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5a2979dc-a2db-48a3-b4ca-89a0b1d2c14f">
 <img width="958" alt="Screenshot 2023-12-25 120135" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/370bc270-5acd-4089-b9c7-20ce3a83f8c9">
