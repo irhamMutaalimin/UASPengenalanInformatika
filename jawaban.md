@@ -125,7 +125,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-<img width="957" alt="Screenshot 2023-12-27 025556" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/cd14ccaa-7180-4665-92d7-41268d52c1ee">
+1.Contoh Pemprosesan Image
+<img width="957" alt="Screenshot 2023-12-27 025556" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6a69a17f-0170-440a-9202-8e8710b8b545">
 <img width="923" alt="Screenshot 2023-12-27 025648" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fa7a53c4-ebfb-4114-a033-989880eb748a">
 <img width="940" alt="Screenshot 2023-12-27 025702" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/eebae45a-4a92-4de5-85ed-e9b8bb871dd8">
 
