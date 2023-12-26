@@ -129,6 +129,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+1.Text to image menggunakan Bing image creator
+<img width="824" alt="Screenshot 2023-12-27 021318" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fbacc49c-5883-4528-a5fb-40cd663aaec2">
+2.Text to text menggunnakan chat GPT
+<img width="960" alt="Screenshot 2023-12-27 015633" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/25aa2d99-f282-4745-a095-d95091f74512">
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
