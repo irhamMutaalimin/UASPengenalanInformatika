@@ -176,8 +176,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="947" alt="Screenshot 2023-12-26 192559" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a1518d78-d4db-4940-b1dc-a3796ea4001a">
 <img width="942" alt="Screenshot 2023-12-26 192711" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/34f7784f-5986-4046-8cf9-994bac7b3c10">
 <img width="950" alt="Screenshot 2023-12-26 192745" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f60690e2-bd6e-4f5c-98f2-f200eaa7e048">
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+
+## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+<img width="955" alt="Screenshot 2023-12-26 194547" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/00be98eb-52bb-4883-ac91-7ef84e0a502a">
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 <img width="922" alt="Screenshot 2023-12-26 164918" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/e59dbd51-0704-45e2-91dc-c61f9a1a4892">
