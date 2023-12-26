@@ -129,8 +129,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="957" alt="Screenshot 2023-12-27 025556" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6a69a17f-0170-440a-9202-8e8710b8b545">
 <img width="923" alt="Screenshot 2023-12-27 025648" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fa7a53c4-ebfb-4114-a033-989880eb748a">
 <img width="940" alt="Screenshot 2023-12-27 025702" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/eebae45a-4a92-4de5-85ed-e9b8bb871dd8">
-
-
+2. Contoh Pemrosesan Audio
+<img width="955" alt="Screenshot 2023-12-27 040847" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/25626311-4d7c-4de4-a651-d702dae7a747">
+<img width="959" alt="Screenshot 2023-12-27 040907" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fb661fa4-441a-45ce-9c7f-8542be093ddf">
+<img width="960" alt="Screenshot 2023-12-27 040920" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/696cead3-6500-44e3-b044-79873444d6e4">
 
 ## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
