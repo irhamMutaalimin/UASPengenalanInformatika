@@ -105,26 +105,26 @@ Referensi []
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 1.Contoh Pemprosesan Image
 <img width="957" alt="Screenshot 2023-12-27 025556" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6a69a17f-0170-440a-9202-8e8710b8b545">
 <img width="923" alt="Screenshot 2023-12-27 025648" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fa7a53c4-ebfb-4114-a033-989880eb748a">
@@ -132,58 +132,58 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 1.Text to image menggunakan Bing image creator
 <img width="824" alt="Screenshot 2023-12-27 021318" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fbacc49c-5883-4528-a5fb-40cd663aaec2">
 2.Text to text menggunnakan chat GPT
 <img width="960" alt="Screenshot 2023-12-27 015633" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/25aa2d99-f282-4745-a095-d95091f74512">
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 <img width="919" alt="Screenshot 2023-12-23 022130" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70558b2f-3ba5-403e-8ebb-5f0ff1fb8be5">
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 <img width="913" alt="Screenshot 2023-12-23 030916" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5e6c26f8-a2b8-442a-b20f-0346b4b59ed1">
 
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 <img width="959" alt="Screenshot 2023-12-26 160942" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3511efa5-c55c-4271-a5f5-7a4d676b9625">
 <img width="958" alt="Screenshot 2023-12-26 161622" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3380ca11-b6fe-40c4-a97a-a8240cd8bb78">
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 ![WhatsApp Image 2023-12-25 at 11 53 39](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b36415ca-9228-4d96-8954-01c677af30be)
 ![WhatsApp Image 2023-12-25 at 11 53 39 (1)](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/71236262-d7e8-47f9-a433-35cd4d2ca30f)
 
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 <img width="960" alt="Screenshot 2023-12-25 121742" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/226b8b6c-e4fe-47a7-991f-81e4987187bd">
 
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 <img width="933" alt="Screenshot 2023-12-25 135520" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b99775e2-dbce-414a-bf64-ff2dffb3c9a0">
 <img width="960" alt="Screenshot 2023-12-25 142325" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/79739a1b-03dc-479c-89a8-18f8003f2795">
 <img width="959" alt="Screenshot 2023-12-25 142759" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3c3afb16-ea0f-4117-bed8-7fa5542dcf76">
 
 
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 1. Jurnal adalah sebuah catatan yang dibuat secara teratur dan sistematis tentang kegiatan, peristiwa, atau pemikiran yang terjadi.Jurnal juga bisa berupa kumpulan tulisan ilmiah dari para peneliti atau ahli dalam bidang tertentu. Di sini, mereka membagikan hasil penelitian, analisis, atau gagasan terbaru tentang topik yang mereka pelajari. Jurnal ini berfungsi sebagai wadah untuk menyebarkan pengetahuan baru kepada komunitas ilmiah dan masyarakat. Artikel-artikel dalam jurnal biasanya melalui proses penilaian oleh pakar dalam bidang yang sama sebelum dipublikasikan untuk memastikan kualitas dan keandalannya.Jurnal dapat digunakan untuk berbagai tujuan, termasuk untuk mencatat kegiatan sehari-hari, untuk mencatat pemikiran atau ide-ide yang muncul, atau untuk mencatat hasil penelitian atau observasi.
 2.  Conference adalah acara di mana para ahli, peneliti, atau orang-orang yang tertarik dalam suatu bidang berkumpul untuk berbagi pengetahuan, hasil penelitian terbaru, dan gagasan-gagasan mereka. Biasanya, konferensi ini dilakukan dalam bentuk presentasi, diskusi panel, atau sesi tanya jawab. Tujuannya adalah memfasilitasi pertukaran informasi terkini, kolaborasi antar-peserta, dan memperluas pemahaman tentang perkembangan terbaru dalam bidang tersebut. Konferensi bisa menjadi tempat yang baik untuk belajar dari para ahli langsung, berdiskusi tentang ide-ide baru, dan membangun jaringan kerja atau kolaborasi dengan orang-orang yang memiliki minat serupa.
 3.  Artikel adalah tulisan yang dibuat oleh peneliti atau ahli dalam suatu bidang tertentu. Artikel ini berisi tentang penemuan, hasil penelitian, analisis, atau pemikiran mendalam tentang topik khusus. Mereka dapat ditemukan dalam jurnal ilmiah, konferensi, buku, atau media lainnya. Artikel ilmiah memiliki struktur dan format tertentu yang disesuaikan dengan standar keilmuan. Biasanya, artikel ini memberikan informasi terperinci tentang metodologi penelitian, temuan yang diperoleh, dan interpretasi dari hasil tersebut. Proses penulisan artikel ilmiah melibatkan referensi terhadap karya-karya sebelumnya untuk mendukung argumen yang disampaikan. Salah satu tujuan utama dari artikel ilmiah adalah menyebarkan pengetahuan baru, menawarkan pemikiran inovatif, atau memberikan kontribusi pada pemahaman lebih lanjut dalam bidang tertentu.
 4.  Grade atau kualifikasi jurnal adalah cara untuk menilai atau memberikan peringkat pada jurnal ilmiah berdasarkan kualitasnya. Penilaian ini dapat dilakukan dengan beberapa metode, salah satunya adalah faktor dampak (impact factor). Faktor dampak mengukur seberapa sering artikel dari jurnal tersebut dikutip oleh jurnal-jurnal lain dalam kurun waktu tertentu. Semakin tinggi faktor dampaknya, umumnya semakin dianggap prestisius atau berpengaruh jurnal tersebut dalam komunitas ilmiah.
 
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 <img width="960" alt="Screenshot 2023-12-27 011632" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b2845e0d-738b-4321-b266-9be4556d02af">
 <img width="957" alt="Screenshot 2023-12-27 011614" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b99aef93-1d13-4f17-88e3-45ae53e317c8">
 
 
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
 
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 <img width="949" alt="Screenshot 2023-12-27 014931" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6d46ae82-2ef8-4220-8041-321324e988e6">
 <img width="658" alt="Screenshot 2023-12-27 014947" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/12d3d81c-1041-4a40-a4fd-9cbf12510737">
 <img width="941" alt="Screenshot 2023-12-27 015008" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/7d978ca1-4aaf-4be1-bbc6-e0938b0d5b41">
@@ -193,36 +193,36 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 ![WhatsApp Image 2023-12-26 at 19 15 45](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/60b20e41-0086-4255-9334-c7c4bdf1e0de)
 ![WhatsApp Image 2023-12-26 at 19 15 44](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d7bb962f-596f-4f9a-957f-043fdcb7739a)
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 ![WhatsApp Image 2023-12-26 at 20 09 26 (1)](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a804156d-66dd-4dea-ad52-1d358f7792a6)
 ![WhatsApp Image 2023-12-26 at 20 09 26](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3ed41358-b534-49c1-bb80-0eadf7539eb2)
 
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 <img width="949" alt="Screenshot 2023-12-26 192541" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b63924fc-7fd8-47cb-9cef-c1ed09f103be">
 <img width="947" alt="Screenshot 2023-12-26 192559" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/a1518d78-d4db-4940-b1dc-a3796ea4001a">
 <img width="942" alt="Screenshot 2023-12-26 192711" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/34f7784f-5986-4046-8cf9-994bac7b3c10">
 <img width="950" alt="Screenshot 2023-12-26 192745" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f60690e2-bd6e-4f5c-98f2-f200eaa7e048">
 
 
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 <img width="955" alt="Screenshot 2023-12-26 194547" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/00be98eb-52bb-4883-ac91-7ef84e0a502a">
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 <img width="922" alt="Screenshot 2023-12-26 164918" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/e59dbd51-0704-45e2-91dc-c61f9a1a4892">
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 <img width="942" alt="Screenshot 2023-12-25 120120" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5a2979dc-a2db-48a3-b4ca-89a0b1d2c14f">
 <img width="958" alt="Screenshot 2023-12-25 120135" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/370bc270-5acd-4089-b9c7-20ce3a83f8c9">
 
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 50. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 <img width="936" alt="Screenshot 2023-12-26 164322" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/530a29e8-7011-4b3c-8362-dbcf55405204">
 <img width="960" alt="Screenshot 2023-12-26 164218" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9cc01461-b210-4759-a98c-502d8e8e3e65">
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+## 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
