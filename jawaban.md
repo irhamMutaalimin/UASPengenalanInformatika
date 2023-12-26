@@ -62,11 +62,14 @@ Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 <img width="588" alt="Screenshot 2023-12-26 141235" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d1ac9134-2989-444a-bc2e-3eb686100ce2">
+<img width="874" alt="Screenshot 2023-12-26 153009" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/2e885f2d-421f-4c03-b841-578ce62d11cb">
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
+Referensi installer [PostgreSQL](https://www.![Uploading Screenshot 2023-12-26 153009.png…]()
+postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+<img width="960" alt="Screenshot 2023-12-26 152917" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/3c33ede4-9018-42e8-85ee-4fe64f633d94">
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
