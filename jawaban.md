@@ -184,7 +184,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 
-
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 <img width="949" alt="Screenshot 2023-12-27 014931" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6d46ae82-2ef8-4220-8041-321324e988e6">
 <img width="658" alt="Screenshot 2023-12-27 014947" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/12d3d81c-1041-4a40-a4fd-9cbf12510737">
@@ -224,6 +223,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="960" alt="Screenshot 2023-12-26 164218" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9cc01461-b210-4759-a98c-502d8e8e3e65">
 
 ## 51. Membangun Profil Github Page ⭐⭐⭐⭐⭐
+<img width="925" alt="Screenshot 2023-12-31 153233" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70c205f2-1d09-4748-9016-35155a91638a">
 
 ## 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
