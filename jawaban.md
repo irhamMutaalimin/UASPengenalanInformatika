@@ -136,6 +136,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="960" alt="Screenshot 2023-12-27 040920" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/696cead3-6500-44e3-b044-79873444d6e4">
 
 ## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+saya menggunakan ai ini https://pallyy.com/tools/image-caption-generator
+<img width="442" alt="Screenshot 2023-12-31 163943" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/1fa1674e-046a-42cd-91d9-fe0f418edc12">
+<img width="434" alt="Screenshot 2023-12-31 164000" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/8906ead6-7446-4cdd-8ad4-aa7f83c75ffa">
+
 
 ## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 1.Text to image menggunakan Bing image creator
