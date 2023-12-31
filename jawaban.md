@@ -123,6 +123,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 ## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+<img width="932" alt="Screenshot 2023-12-31 155541" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5077e661-78d4-4d0c-a44a-88ff9d486488">
 
 ## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 1.Contoh Pemprosesan Image
@@ -226,5 +227,6 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 <img width="925" alt="Screenshot 2023-12-31 153233" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70c205f2-1d09-4748-9016-35155a91638a">
 
 ## 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
