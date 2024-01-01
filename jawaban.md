@@ -149,7 +149,10 @@ saya menggunakan ai ini https://pallyy.com/tools/image-caption-generator
 
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+
 ## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+<img width="950" alt="Screenshot 2024-01-02 000027" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70dbabbe-b0a1-49a4-b8c1-6f9a77213536">
+
 
 ## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 <img width="919" alt="Screenshot 2023-12-23 022130" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70558b2f-3ba5-403e-8ebb-5f0ff1fb8be5">
@@ -187,6 +190,7 @@ saya menggunakan ai ini https://pallyy.com/tools/image-caption-generator
 
 
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+<img width="946" alt="Screenshot 2024-01-01 235256" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f692c2f9-feda-4552-ab3a-ab8cc9ca14e9">
 
 
 ## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
