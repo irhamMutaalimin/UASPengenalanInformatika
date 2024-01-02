@@ -266,6 +266,9 @@ saya menggunakan ai ini https://pallyy.com/tools/image-caption-generator
 <img width="925" alt="Screenshot 2023-12-31 153233" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70c205f2-1d09-4748-9016-35155a91638a">
 
 ## 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![WhatsApp Image 2024-01-02 at 22 33 44](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/74691d45-83ba-4e5d-a1b6-f56c7ebd93d4)
+![WhatsApp Image 2024-01-02 at 22 30 47](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/7bcf484b-ce52-4e04-8372-9ffaad1e29cf)
 
 
 ## 53. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+![WhatsApp Image 2024-01-02 at 22 30 34](https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/8e83e580-b9d1-4dca-a973-21877727c281)
