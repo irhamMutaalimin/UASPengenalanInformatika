@@ -55,10 +55,17 @@ Referensi [1](https://scratch.mit.edu/)
 <img width="948" alt="Screenshot 2023-12-23 013441" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/295c504b-b4c4-4f2c-8171-f217df11a659">
 
 ## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 190028" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/37fd06c1-53e3-45a7-b14e-7700f8701426">
 
 ## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+<img width="946" alt="Screenshot 2024-01-01 214800" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/33e51069-b193-48a8-9eba-7624da217702">
+<img width="960" alt="Screenshot 2024-01-02 002502" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/8a44d331-ac7c-4bcb-940f-f822582d9e7f">
+
 
 ## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+<img width="293" alt="Screenshot 2023-12-30 232518" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/653d353f-e446-4810-91d4-5fb89a13906d">
+<img width="294" alt="Screenshot 2023-12-30 232625" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ed2692fc-4c2a-41c7-a771-f677e5c2b3a6">
+
 
 ## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 <img width="588" alt="Screenshot 2023-12-26 141235" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d1ac9134-2989-444a-bc2e-3eb686100ce2">
@@ -78,8 +85,10 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+<img width="960" alt="Screenshot 2024-01-02 191215" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/69b31bb3-5ca6-4a05-a946-034e64a5a67e">
 
 ## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+<img width="951" alt="Screenshot 2024-01-02 191056" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ea0bf589-fc29-44f0-b30e-f14b0ee34834">
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
@@ -89,6 +98,10 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 032440" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5090df4f-b4a1-4e5d-8160-c867bbd76284">
+<img width="959" alt="Screenshot 2024-01-02 032512" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/d1465d6b-9315-4a23-9d98-d8d4eae40ac1">
+<img width="955" alt="Screenshot 2024-01-02 032524" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/b7301f21-010f-4bbd-9caf-b57e78ce2f83">
+
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -96,6 +109,8 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 191420" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/ab1577ae-4e64-48f7-b89d-5ccbdcdd6ec1">
+
 
 Referensi []
 
@@ -103,13 +118,18 @@ Referensi []
 <img width="933" alt="Screenshot 2023-12-24 201447" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/e89d006f-68e5-4cc6-bb55-a7910ca48259">
 
 ## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+<img width="929" alt="Screenshot 2024-01-02 191712" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/c4b45c19-d29c-44b6-bae0-5d159da18078">
+<img width="959" alt="Screenshot 2024-01-02 191622" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f27d292b-b25e-4b82-8908-c95403d8c167">
 
 
 ## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+<img width="929" alt="Screenshot 2024-01-02 191712" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/c4b45c19-d29c-44b6-bae0-5d159da18078">
+<img width="959" alt="Screenshot 2024-01-02 191622" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f27d292b-b25e-4b82-8908-c95403d8c167">
 
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+<img width="927" alt="Screenshot 2024-01-02 191820" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/95eec283-24a7-4d0b-8aa0-fccdf2645ac6">
 
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
