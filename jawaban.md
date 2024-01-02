@@ -14,6 +14,7 @@ Ada beberapa bagian penting dalam computational thinking:
 
 Menginternalisasi computational thinking berarti menggunakan cara berpikir ini saat kita menyelesaikan masalah. Ini bisa membantu kita tidak hanya dalam bidang perkuliahan saja, tetapi juga dalam banyak hal lainnya. kita dapat mempraktikkan dengan memecahkan masalah sederhana sehari-hari dan mencoba menerapkan konsep-konsep ini saat Anda mencari solusi.
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+
 Setiap jenis mesin komputasi memiliki peran dan fungsi yang berbeda sesuai dengan kebutuhan penggunaan,  Berikut beberapa jenis mesin komputasi yang umum :
 1. Komputer Pribadi (Personal Computer - PC): Ini adalah mesin komputasi yang umum digunakan di rumah atau kantor. Biasanya terdiri dari CPU, RAM, penyimpanan seperti hard drive atau SSD, dan perangkat input/output seperti keyboard dan monitor. PC hadir dalam bentuk desktop yang terpisah atau dalam format all-in-one di mana semua komponen terdapat dalam satu unit.
 2. Laptop: Merupakan komputer portabel yang memadukan semua komponen dasar dari PC dalam satu unit yang mudah dibawa. Didesain untuk mobilitas, laptop memiliki layar, keyboard, touchpad, dan baterai yang terintegrasi.
@@ -176,7 +177,9 @@ saya menggunakan ai ini https://pallyy.com/tools/image-caption-generator
 <img width="960" alt="Screenshot 2023-12-27 015633" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/25aa2d99-f282-4745-a095-d95091f74512">
 
 ## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
-
+<img width="957" alt="Screenshot 2023-12-27 025556" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/6a69a17f-0170-440a-9202-8e8710b8b545">
+<img width="923" alt="Screenshot 2023-12-27 025648" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fa7a53c4-ebfb-4114-a033-989880eb748a">
+<img width="940" alt="Screenshot 2023-12-27 025702" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/eebae45a-4a92-4de5-85ed-e9b8bb871dd8">
 
 ## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 <img width="950" alt="Screenshot 2024-01-02 000027" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/70dbabbe-b0a1-49a4-b8c1-6f9a77213536">
