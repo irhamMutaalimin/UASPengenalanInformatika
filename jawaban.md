@@ -127,20 +127,28 @@ Referensi []
 <img width="959" alt="Screenshot 2024-01-02 191622" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/f27d292b-b25e-4b82-8908-c95403d8c167">
 
 ## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 001502" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/9891e835-8a2f-43ff-aed2-020823c9ce06">
 
 ## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 <img width="927" alt="Screenshot 2024-01-02 191820" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/95eec283-24a7-4d0b-8aa0-fccdf2645ac6">
 
 ## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+<img width="927" alt="image" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/1d44f94b-bed6-4876-80f7-0be4299254cd">
+
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+<img width="952" alt="Screenshot 2024-01-02 192720" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/fa2a6e0d-7f31-40e7-ad66-3149b4e14cbe">
 
 ## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 193006" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/182a5114-a8be-43d1-9e4e-79b4f11646ed">
+
 
 ## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+<img width="960" alt="Screenshot 2024-01-02 193006" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/4c1cff37-790b-4f4d-8c6d-8510b49a4d27">
+
 
 ## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 <img width="932" alt="Screenshot 2023-12-31 155541" src="https://github.com/irhamMutaalimin/UASPengenalanInformatika/assets/144558007/5077e661-78d4-4d0c-a44a-88ff9d486488">
